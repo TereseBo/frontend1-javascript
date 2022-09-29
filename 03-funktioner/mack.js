@@ -1,3 +1,5 @@
+
+//Det här programmet berättar hur du kokar makaroner
 const makaroner=function () {
     console.log("Koka upp vatten med 10g salt/L");
     console.log("Häll i makaronerna och vänta tiden angiven på förpackningen.");

@@ -1,8 +1,10 @@
+//Det här programmet konverterar en volym till mL eller liter
+
 const prompt=require ('prompt-sync')();
 //Alternativ att ta in mangd och enhet separat via prompt.
 //let mangd=Number(prompt("Hur mycket vill du konvertera?"));
 //let enhet=prompt("Vilken enhet är måttet i? (tsk,msk,mL,dl,l)").trim().toLowerCase();
-let svar=prompt("Hur mycket vill du konvertera?").trim().toLowerCase();
+let svar=prompt("Hur mycket vill du konvertera och i vilken enhet? (tsk/msk/dL/L?)").trim().toLowerCase();
 
 const myArray = svar.split(" ");
 let mangd=myArray[0];
