@@ -1,0 +1,1 @@
+console.log("Nu är du i app.js i mappen 03-funktioner")

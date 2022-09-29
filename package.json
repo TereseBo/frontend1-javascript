@@ -2,9 +2,9 @@
   "name": "01-variabler",
   "version": "1.0.0",
   "description": "Exempelprojekt för kursen Frontend 1: Javascript, Nackademin Höstterminen 2022",
-  "main": "./01-variabler/app.js",
+  "main": "./02-if-switch/app.js",
   "scripts": {
-    "start": "node ./01-variabler/app.js",
+    "start": "node ./02-if-switch/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
